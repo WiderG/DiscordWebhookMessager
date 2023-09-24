@@ -5,6 +5,7 @@ I made this program for fun, basically it accepts a discord webhook, and caches 
 # Required Dependencies
 
 > Discord.py ( pip install discord.py )
+>
 > Requests   ( pip install requests)
 
 

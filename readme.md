@@ -6,7 +6,9 @@ I made this program for fun, basically it accepts a discord webhook, and caches 
 
 > Discord.py ( pip install discord.py )
 >
-> Requests   ( pip install requests)
+> Requests   ( pip install requests )
+>
+> Pillow     ( pip install Pillow )
 
 
 

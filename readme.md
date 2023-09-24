@@ -10,7 +10,7 @@ I made this program for fun, basically it accepts a discord webhook, and caches 
 >
 > Pillow     ( pip install Pillow )
 
-
+(Can't be assed installing these? A batch file will be provided in the latest release to download and install all dependencies.)
 
 
 

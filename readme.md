@@ -1,5 +1,7 @@
 # Wider's Discord Webhook Messager (Python)
 
+# Designed and tested on Python 3.X
+
 I made this program for fun, basically it accepts a discord webhook, and caches it to a file in %temp%
 
 # Required Dependencies

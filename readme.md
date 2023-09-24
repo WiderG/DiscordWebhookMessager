@@ -7,8 +7,6 @@ I made this program for fun, basically it accepts a discord webhook, and caches 
 > Discord.py ( pip install discord.py )
 >
 > Requests   ( pip install requests )
->
-> Pillow     ( pip install Pillow )
 
 (Can't be assed installing these? A batch file will be provided in the latest release to download and install all dependencies.)
 
@@ -20,5 +18,10 @@ I made this program for fun, basically it accepts a discord webhook, and caches 
 # Features
 
 > Webhook Caching
+>
 > Nice lil discordy theme
+>
 > Simple and easy to use UI
+>
+> Simple font-styling checkboxes
+> 

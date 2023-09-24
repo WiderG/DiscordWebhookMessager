@@ -1,8 +1,12 @@
 # Wider's Discord Webhook Messager (Python)
 
-# Designed and tested on Python 3.X
+Designed and tested on Python 3.X
 
-I made this program for fun, basically it accepts a discord webhook, and caches it to a file in %temp%
+This program was made for fun.
+Operating it is simple: Paste your webhook in the box and start messaging.
+To clear the webhook cache, click the red button. To view the cache location, hit Utilities > View Cache Location.
+![image](https://github.com/WiderG/DiscordWebhookMessager/assets/142853127/cfc01694-ddad-4cc3-91a6-d7e706e24e01)
+
 
 # Required Dependencies
 
